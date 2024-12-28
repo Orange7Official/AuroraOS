@@ -5,6 +5,7 @@ https://docs.google.com/spreadsheets/d/1ywlX5wu1iGSmChDhcJupjDXSOqp-xsWIbjJYCap4
 - Content: A link to a Google Sheets spreadsheet containing a 2024 calendar.
 ### Structure:
 - Two sheets within the spreadsheet.
+   - The second sheet covers dates beyond 10/25, as the table exceeds Column 25 (labeled Z).
 - Two tables, styled in Google Red.
 - Two footers at the bottom of the sheets.
 - Purpose: The calendar provides detailed year-based data relevant to the current year (2024) and can be used for planning, tracking, or other related tasks.
