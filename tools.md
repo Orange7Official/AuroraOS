@@ -3,7 +3,7 @@ https://docs.google.com/spreadsheets/d/1ywlX5wu1iGSmChDhcJupjDXSOqp-xsWIbjJYCap4
 ## Description
 - File Location: `apps/tools.md`
 - Content: A link to a Google Sheets spreadsheet containing a 2024 calendar.
-###Structure:
+### Structure:
 - Two sheets within the spreadsheet.
 - Two tables, styled in Google Red.
 - Two footers at the bottom of the sheets.
